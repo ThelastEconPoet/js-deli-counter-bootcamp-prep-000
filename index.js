@@ -19,6 +19,6 @@ function currentLine(katzDeliLine) {
     return ("The line is currently empty.")
   }
 
-  for(let i )
+  for(let i = 0 )
   
 }
